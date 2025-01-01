@@ -18,7 +18,7 @@ Dette prosjektet er bygget med:
 ## Hvordan se nettsiden
 
 Du kan besøke nettsiden på GitHub Pages her:
-[https://brukernavn.github.io/repository-navn/](https://brukernavn.github.io/repository-navn/)  
+[https://brukernavn.github.io/repository-navn/](https://audunhedstein.github.io/pingaway-landingsside-202501011442/)
 *(Bytt ut "brukernavn" og "repository-navn" med dine faktiske GitHub-detaljer.)*
 
 ## Funksjoner
@@ -39,5 +39,5 @@ Du kan besøke nettsiden på GitHub Pages her:
 
 ## Kontakt
 
-- **Nettside**: [www.pingaway.no](https://www.pingaway.no)
-- **Support**: support@pingaway.no
+- **Nettside**: [www.pingaway.no]
+- **Support**: audun.hedstein@pingaway.no
